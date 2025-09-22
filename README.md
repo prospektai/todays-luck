@@ -1,6 +1,8 @@
+![Test Today's Luck Banner](./git-img/button.png)
+
 # 🎲 Test Today's Luck
 
-A fun and interactive web app that lets you **test your luck for the day** with a playful spinner.  
+A fun and interactive web app that lets you **test your luck for the day** with a playful spinner.
 Your luck is shown as a percentage, along with stats tracking your spins, averages, and more — all saved in your browser.
 
 ---
@@ -19,15 +21,16 @@ Your luck is shown as a percentage, along with stats tracking your spins, averag
 
 ---
 
-## 🖼️ Demo Screenshot
-
-![Demo Preview](https://via.placeholder.com/600x300.png?text=Luck+Test+App)  
-*(Replace with a real screenshot if you want)*
+## 🖼️ Demo Screenshots
 
 ---
 
-## 📂 Project Structure
+![First page after testing](./git-img/first.png)
 
+
+![Side drawer screenshot](./git-img/second.png)
+
+## 📂 Project Structure
 
 Everything is self-contained in one file — no external dependencies required.
 
@@ -52,7 +55,7 @@ Everything is self-contained in one file — no external dependencies required.
 
 ## 📜 License
 
-This project is open-source and free to use.  
+This project is open-source and free to use.
 Feel free to modify, share, and have fun with it! 🎉
 
 ---
