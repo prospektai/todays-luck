@@ -5,6 +5,8 @@
 A fun and interactive web app that lets you **test your luck for the day** with a playful spinner.
 Your luck is shown as a percentage, along with stats tracking your spins, averages, and more — all saved in your browser.
 
+[Live Demo](https://prospektai.github.io/todays-luck/)
+
 ---
 
 ## 🚀 Features
